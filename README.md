@@ -4,9 +4,9 @@ A Streamlit-based web application for exploring and analyzing movie data. The ap
 
 ---
 
-## 📌 Features
+##  Features
 
-### 🔍 Movie Search
+###  Movie Search
 - Search for movies by title.
 - View details such as:
   - IMDb Rating
@@ -16,35 +16,35 @@ A Streamlit-based web application for exploring and analyzing movie data. The ap
   - Director
   - Plot Summary
 
-### 🎭 Actor Search
+###  Actor Search
 - Search for an actor.
 - View movies featuring the selected actor.
 - Explore actor filmography
 
-### ⚖️ Actor Comparison
+###  Actor Comparison
 - Compare two actors based on:
   - Number of movies
   - Average IMDb rating
   - Popular works
 
-### 🎬 Director Search
+###  Director Search
 - Search for a director.
 - View movies directed by them.
 - Analyze their filmography.
 
-### 📊 Movie Analysis
+###  Movie Analysis
 Generate visualizations including:
 - IMDb Rating Distribution
 - Movies Released Per Year
 - Genre Distribution
 - Top Rated Movies
 
-### 🤖 IMDb Rating Predictor
+###  IMDb Rating Predictor
 Predict the IMDb rating of a movie using a machine learning model based on movie features.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Streamlit
@@ -57,7 +57,7 @@ Predict the IMDb rating of a movie using a machine learning model based on movie
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 IMDb-Film-Analysis-Suite/
@@ -72,7 +72,7 @@ IMDb-Film-Analysis-Suite/
 ├── README.md
 └── requirements.txt
 ```
-## 📊 Dataset
+##  Dataset
 
 This project uses a movie dataset obtained from Kaggle containing information for over 10,000 movies.
 
